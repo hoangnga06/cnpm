@@ -1,9 +1,19 @@
 [
     {
-        "fullname": "Administrator",
-        "email": "admin@gmail.com",
-        "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
-        "role": "admin",
+        "email": "nga@gmail.com",
+        "name": "nga",
+        "phone": "0395672337",
+        "password": "hnga06",
+        "role": "sales",
+        "locked": false,
+        "login_fail": 0
+    },
+    {
+        "email": "lt@gmail.com",
+        "name": "ng",
+        "phone": "0987654321",
+        "password": "hnga123",
+        "role": "sales",
         "locked": false,
         "login_fail": 0
     }
