@@ -256,7 +256,7 @@ def main():
             print("Kết thúc ct.")
             break
         else:
-            print("❌ Lựa chọn không hợp lệ.")
+            print("❌ Lựa chọn không hlệ.")
 
 
 if __name__ == "__main__":
