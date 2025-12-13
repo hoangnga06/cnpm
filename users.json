@@ -1,0 +1,11 @@
+[
+    {
+        "email": "nga@gmail.com",
+        "name": "nga",
+        "phone": "0395672337",
+        "password": "hnga06",
+        "role": "sales",
+        "locked": false,
+        "login_fail": 0
+    }
+]
