@@ -33,5 +33,14 @@
         "role": "user",
         "locked": false,
         "login_fail": 0
+    },
+    {
+        "fullname": "thư",
+        "email": "thu@gmail.com",
+        "phone": "0789876547",
+        "password": "f312795e322c87461a6f3c49e09897c59ca0d5a36245d2a00f08cbc66eee976d",
+        "role": "user",
+        "locked": false,
+        "login_fail": 0
     }
 ]
