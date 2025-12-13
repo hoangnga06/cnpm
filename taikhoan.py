@@ -253,7 +253,7 @@ def main():
         elif choice == "5":
             manage_roles()
         elif choice == "6":
-            print("Kết thúc chuong trinh.")
+            print("Kết thúc ct.")
             break
         else:
             print("❌ Lựa chọn không hop le.")
