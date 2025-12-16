@@ -1,23 +1,5 @@
 [
     {
-        "email": "nga@gmail.com",
-        "name": "nga",
-        "phone": "0395672337",
-        "password": "hnga06",
-        "role": "sales",
-        "locked": false,
-        "login_fail": 0
-    },
-    {
-        "email": "lt@gmail.com",
-        "name": "ng",
-        "phone": "0987654321",
-        "password": "hnga123",
-        "role": "sales",
-        "locked": false,
-        "login_fail": 0
-    },
-    {
         "fullname": "Administrator",
         "email": "admin@gmail.com",
         "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
@@ -26,19 +8,19 @@
         "login_fail": 0
     },
     {
-        "fullname": "Thảo",
-        "email": "thao@gmail.com",
-        "phone": "0987867899",
-        "password": "f312795e322c87461a6f3c49e09897c59ca0d5a36245d2a00f08cbc66eee976d",
+        "fullname": "thu",
+        "email": "thu@gmail.com",
+        "phone": "0987655442",
+        "password": "90c6ac611fdaac94aa47ba3fb71a8ab0bf51364b395728c00040acc1a7b871d8",
         "role": "user",
         "locked": false,
         "login_fail": 0
     },
     {
-        "fullname": "thư",
-        "email": "thu@gmail.com",
-        "phone": "0789876547",
-        "password": "f312795e322c87461a6f3c49e09897c59ca0d5a36245d2a00f08cbc66eee976d",
+        "fullname": "nga",
+        "email": "hoangnga02@gmail.com",
+        "phone": "0123456789",
+        "password": "b4e19430eec68d09d2cdce095572deed179dac35af098083da87519871f5b9cf",
         "role": "user",
         "locked": false,
         "login_fail": 0
@@ -48,6 +30,15 @@
         "email": "linh@gmail.com",
         "phone": "0956784765",
         "password": "2d0c6e5861d114fe7e617ae9e1b8927f9eb481eee5ef8245be442e5542c2a4dd",
+        "role": "user",
+        "locked": false,
+        "login_fail": 0
+    },
+    {
+        "fullname": "ngoc",
+        "email": "ngoc@gmail.com",
+        "phone": "0789654321",
+        "password": "e3ddf4fba15da46d48bf3c7f0d0dd418d245e46dcf40979ad46d55284603eae3",
         "role": "user",
         "locked": false,
         "login_fail": 0
