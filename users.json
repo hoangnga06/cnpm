@@ -33,5 +33,14 @@
         "role": "user",
         "locked": false,
         "login_fail": 0
+    },
+    {
+        "fullname": "ngoc",
+        "email": "ngoc@gmail.com",
+        "phone": "0789654321",
+        "password": "e3ddf4fba15da46d48bf3c7f0d0dd418d245e46dcf40979ad46d55284603eae3",
+        "role": "user",
+        "locked": false,
+        "login_fail": 0
     }
 ]
