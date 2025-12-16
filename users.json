@@ -24,5 +24,14 @@
         "role": "user",
         "locked": false,
         "login_fail": 0
+    },
+    {
+        "fullname": "linh",
+        "email": "linh@gmail.com",
+        "phone": "0956784765",
+        "password": "2d0c6e5861d114fe7e617ae9e1b8927f9eb481eee5ef8245be442e5542c2a4dd",
+        "role": "user",
+        "locked": false,
+        "login_fail": 0
     }
 ]
