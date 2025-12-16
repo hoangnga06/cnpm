@@ -137,7 +137,7 @@ def change_password():
 
     old = input("Mật khẩu cũ: ")
     new = input("Mật khẩu mới: ")
-    cf = input("Xác nhận mật khẩu mới: ")
+    cf = input("Xác nhận mật 1khẩu mới: ")
 
     for u in users:
         if u["email"] == session["email"]:
